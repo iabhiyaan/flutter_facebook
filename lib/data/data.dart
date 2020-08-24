@@ -167,7 +167,7 @@ final List<Post> posts = [
   Post(
     user: currentUser,
     caption: 'Check out these cool puppers',
-    timeAgo: '58m',
+    timeAgo: '40m',
     imageUrl: 'https://images.unsplash.com/photo-1525253086316-d0c936c814f8',
     likes: 1202,
     comments: 184,
