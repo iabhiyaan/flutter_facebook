@@ -2,8 +2,7 @@ import 'package:flutter_facebook_responsive_ui/models/models.dart';
 
 final User currentUser = User(
   name: 'Abhiyan Shrestha',
-  imageUrl:
-      'https://yt3.ggpht.com/a-/AOh14GhQl3iSJnhfdpjY_Og72uyDFWBIXur5jT3B6WMqJQ=s88-c-k-c0xffffffff-no-rj-mo',
+  imageUrl: 'https://www.w3schools.com/howto/img_avatar.png',
 );
 
 final List<User> onlineUsers = [
